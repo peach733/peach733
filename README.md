@@ -55,5 +55,5 @@
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api?username=peach733&show_icons=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peach733&layout=compact">
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jihye15718)](https://solved.ac/jihye15718))
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjddlf101)](https://solved.ac/tjddlf101)
 </div> 
