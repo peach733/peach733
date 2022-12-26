@@ -52,9 +52,9 @@
 </div>
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peach733&layout=compact">
-	<br>
+	</br>
 <img src="https://github-readme-stats.vercel.app/api?username=peach733&show_icons=true">
-	<br>
+	</br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkh1902)](https://solved.ac/kkh1902)
 </div> 
