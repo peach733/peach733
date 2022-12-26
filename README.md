@@ -45,7 +45,7 @@
 	<a href="mailto:kimjeje15@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/c7f250211d014da4a209807e10cebfb1">
+	<a href="https://www.notion.so/STUDY-41ea0982a45e437383ab6d254a5d5d17">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
