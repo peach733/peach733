@@ -48,6 +48,8 @@
 	<a href="https://www.notion.so/c7f250211d014da4a209807e10cebfb1">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+	[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkh1902)](https://solved.ac/kkh1902)
 	<br>
 </div>
 <div align=center>
@@ -58,3 +60,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkh1902)](https://solved.ac/kkh1902)
 </div> 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkh1902)](https://solved.ac/kkh1902)
