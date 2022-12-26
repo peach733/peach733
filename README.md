@@ -59,6 +59,6 @@
 <br>
 	
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkh1902)](https://solved.ac/kkh1902)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkh1902)](https://solved.ac/jihye15718)
 </div> 
 
