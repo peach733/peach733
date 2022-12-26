@@ -52,7 +52,8 @@
 </div>
 <div align=center>
 	<br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jihye15718)](https://solved.ac/jihye15718)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jihye15718)](https://solved.ac/jihye15718)
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peach733&layout=compact">
 	<br>
