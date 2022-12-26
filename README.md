@@ -54,7 +54,7 @@
 ##
 <div align=center>
 	<img src="https://github-readme-stats.vercel.app/api?username=peach733&show_icons=true">
-	<img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=jihye15718" src="https://solved.ac/jihye15718">
 	<br>
+	<img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=jihye15718" src="https://solved.ac/jihye15718">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peach733&layout=compact">
 </div>
